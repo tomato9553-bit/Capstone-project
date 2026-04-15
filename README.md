@@ -1,4 +1,4 @@
-# Capstone Mini Project — NHANES 2020 Body Measurement Analysis
+# Capstone Mini Project - NHANES 2020 Body Measurement Analysis
 
 A data analysis project exploring body measurements from the **National Health and Nutrition Examination Survey (NHANES) 2020** dataset using NumPy, Matplotlib, SciPy, and Seaborn.
 
