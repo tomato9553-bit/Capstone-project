@@ -98,7 +98,7 @@ Feel free to adjust the wording as needed for your audience!
    jupyter notebook Capstone_mini_project.ipynb
    ```
 
-> An active internet connection is required — the CSV files are loaded directly from GitHub.
+> An active internet connection is required - the CSV files are loaded directly from GitHub.
 
 ---
 
