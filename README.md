@@ -78,11 +78,11 @@ Feel free to adjust the wording as needed for your audience!
 ## Tech Stack
 
 - **Python 3**
-- [NumPy](https://numpy.org/) — matrix operations and numerical computing
-- [Matplotlib](https://matplotlib.org/) — histograms and boxplots
-- [SciPy](https://scipy.org/) — skewness, kurtosis, and correlation tests
-- [Seaborn](https://seaborn.pydata.org/) — pairplot matrix
-- [Pandas](https://pandas.pydata.org/) — DataFrame wrapper for pairplot only
+- [NumPy](https://numpy.org/) - matrix operations and numerical computing
+- [Matplotlib](https://matplotlib.org/) - histograms and boxplots
+- [SciPy](https://scipy.org/) - skewness, kurtosis, and correlation tests
+- [Seaborn](https://seaborn.pydata.org/) - pairplot matrix
+- [Pandas](https://pandas.pydata.org/) - DataFrame wrapper for pairplot only
 
 ---
 
