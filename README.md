@@ -49,13 +49,13 @@ README.md
 
 ## Key Findings
 
-- | **Males were heavier on average**, with greater variability in weight compared to females. |
-- |---------|-------------|
-- **Both distributions are right-skewed** — most participants fall in lower weight ranges, with a tail of high values.
-- **Weight and BMI are strongly correlated** (~0.9+ Pearson), as expected from the formula.
-- **Males had substantially higher WHR than females**, consistent with known patterns of abdominal fat distribution.
-- **Height showed weak correlation with waist and hip circumference**, suggesting height is a poor predictor of body composition in this dataset.
-- The **highest-BMI individuals** tended to score well above average on all circumference measures and at or below average in height.
+  | **Males were heavier on average**, with greater variability in weight compared to females. |
+  |---------|-------------|
+  | **Both distributions are right-skewed** — most participants fall in lower weight ranges, with a tail of high values. |
+  | **Weight and BMI are strongly correlated** (~0.9+ Pearson), as expected from the formula. |
+  | **Males had substantially higher WHR than females**, consistent with known patterns of abdominal fat distribution. |
+  | **Height showed weak correlation with waist and hip circumference**, suggesting height is a poor predictor of body composition in this dataset. |
+  | The **highest-BMI individuals** tended to score well above average on all circumference measures and at or below average in height. |
 
 ---
 
