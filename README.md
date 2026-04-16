@@ -114,9 +114,3 @@ Feel free to adjust the wording as needed for your audience!
 
 **M. Gopal** | Data Science  
 *Initiated: 08-04-2026 | Completed: 15-04-2026*
-
-
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-|   Row 1  |   Data   |   More   |
-|   Row 2  |   Data   |   class  |
