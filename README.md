@@ -1,4 +1,5 @@
-# 🧑‍🔬 Capstone Mini Project - NHANES 2020 Body Measurement Analysis
+<details>
+<summary>🧑‍🔬 Capstone Mini Project - NHANES 2020 Body Measurement Analysis</summary>
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -7,9 +8,12 @@
 
 > **A data-driven exploration of adult body metrics from the National Health and Nutrition Examination Survey (NHANES) 2020.**
 
+</details>
+
 ---
 
-## 📊 Project Overview
+<details>
+<summary>📊 Project Overview</summary>
 
 This project analyses body measurements of US adults from the **NHANES 2020** survey, with a particular focus on comparing males and females across several body composition metrics:
 - **BMI (Body Mass Index)**
@@ -18,9 +22,12 @@ This project analyses body measurements of US adults from the **NHANES 2020** su
 
 Utilizes powerful Python tools: `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, and `Pandas`.
 
+</details>
+
 ---
 
-## 🗂️ Dataset
+<details>
+<summary>🗂️ Dataset</summary>
 
 - **Source:** [gagolews/teaching-data](https://github.com/gagolews/teaching-data) (NHANES Adult BMX 2020)
 - **Files:**  
@@ -31,18 +38,24 @@ Utilizes powerful Python tools: `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, and `
 
 > ℹ️ Data loaded directly from GitHub with `np.genfromtxt`. Rows with missing values are dropped before analysis.
 
+</details>
+
 ---
 
-## 🧩 Project Structure
+<details>
+<summary>🧩 Project Structure</summary>
 
 ```plaintext
 Capstone_mini_project.ipynb   # Main Jupyter analysis
 README.md                     # This file
 ```
 
+</details>
+
 ---
 
-## 🧠 Analysis Workflow
+<details>
+<summary>🧠 Analysis Workflow</summary>
 
 | Section | Description                                             |
 |---------|--------------------------------------------------------|
@@ -57,6 +70,8 @@ README.md                     # This file
 | 9       | Boxplots: WHtR & WHR by sex                            |
 | 10      | Pros & cons of BMI, WHtR, WHR                          |
 | 11      | Extreme BMI participants (lowest/highest 5)            |
+
+</details>
 
 ---
 
@@ -80,7 +95,8 @@ README.md                     # This file
 
 ---
 
-## ⚙️ Tech Stack
+<details>
+<summary>⚙️ Tech Stack</summary>
 
 - **Python 3.7+**
 - [NumPy](https://numpy.org/) — numerical computing
@@ -89,9 +105,12 @@ README.md                     # This file
 - [Seaborn](https://seaborn.pydata.org/) — advanced pairplots
 - [Pandas](https://pandas.pydata.org/) — used for DataFrame creation
 
+</details>
+
 ---
 
-## How to start
+<details>
+<summary>How to start</summary>
 
 1. **Clone this repo:**
    ```bash
@@ -109,29 +128,43 @@ README.md                     # This file
 
 > 💡 _Requires an active internet connection to fetch the dataset._
 
+</details>
+
 ---
 
-## ⚠️ Limitations
+<details>
+<summary>⚠️ Limitations</summary>
 
 - Missing rows are dropped (not imputed)
 - Dataset limited to US adults (2020) — results may not generalize
 - Measurement variability (waist/hip ratios) may affect reliability
 
+</details>
+
 ---
 
-##  Timeline
+<details>
+<summary>⏳ Timeline</summary>
 
 - **Initiated:** 08-04-2026  
 - **Completed:** 15-04-2026  
 
-## 👤 Author
+</details>
+
+---
+
+<details>
+<summary>👤 Author</summary>
 
 **M. Gopal**  
 _Data Science Enthusiast_
 
+</details>
+
 ---
 
-## ✅ Project Checklist
+<details>
+<summary>✅ Project Checklist</summary>
 
 - [x] Data import/validation
 - [x] Exploratory analysis
@@ -139,6 +172,8 @@ _Data Science Enthusiast_
 - [x] Visualization & stats
 - [x] Summarize findings
 - [x] Write-up complete
+
+</details>
 
 ---
 
